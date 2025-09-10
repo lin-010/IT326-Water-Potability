@@ -22,6 +22,6 @@ Mehedi Hasan, Fatema Tuj Johora, et al., "A Machine Learning-Based Water Potabil
 ## Team Members
 - Student A 
 - Student B 
-- Student C 
+- Amal Alenazi 
 - Linah Alsamari
 
