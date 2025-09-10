@@ -20,8 +20,8 @@ Access to safe drinking water is crucial for public health. Classifying water sa
 Mehedi Hasan, Fatema Tuj Johora, et al., "A Machine Learning-Based Water Potability Prediction", *Healthcare*, 2022. PubMed: https://pubmed.ncbi.nlm.nih.gov/36177311/
 
 ## Team Members
-- Student A (ID) 
-- Student B (ID)  
-- Student C (ID) 
-- Linah Alsamari (445202984) 
+- Student A 
+- Student B 
+- Student C 
+- Linah Alsamari
 
